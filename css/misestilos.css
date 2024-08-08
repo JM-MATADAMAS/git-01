@@ -4,12 +4,12 @@ body {
 }
 
 .divPrincpal {
-    background-color: blueviolet;
+    background-color: rgb(147, 31, 255);
     font-family: 'Courier New', Courier, monospace;
     width: 100%;
     height: 100%;
 }
 
 img {
-    width: 300px;
+    width: 30px;
 }
